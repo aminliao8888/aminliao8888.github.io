@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Amin的工作坊</title>
+    <link>https://aminliao8888.github.io/categories/</link>
+    <description>Recent content in Categories on Amin的工作坊</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://aminliao8888.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python技術文</title>
+      <link>https://aminliao8888.github.io/categories/python%E6%8A%80%E8%A1%93%E6%96%87/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0800</pubDate>
+      <guid>https://aminliao8888.github.io/categories/python%E6%8A%80%E8%A1%93%E6%96%87/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
